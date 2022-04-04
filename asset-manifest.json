@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wangcai-project-react-2-website/static/css/main.b586f6e1.chunk.css",
+    "main.js": "/wangcai-project-react-2-website/static/js/main.5db88b1c.chunk.js",
+    "main.js.map": "/wangcai-project-react-2-website/static/js/main.5db88b1c.chunk.js.map",
+    "runtime-main.js": "/wangcai-project-react-2-website/static/js/runtime-main.94f4a8d7.js",
+    "runtime-main.js.map": "/wangcai-project-react-2-website/static/js/runtime-main.94f4a8d7.js.map",
+    "static/js/2.a94197f0.chunk.js": "/wangcai-project-react-2-website/static/js/2.a94197f0.chunk.js",
+    "static/js/2.a94197f0.chunk.js.map": "/wangcai-project-react-2-website/static/js/2.a94197f0.chunk.js.map",
+    "index.html": "/wangcai-project-react-2-website/index.html",
+    "precache-manifest.81537bc56237a702a308e0cf9ab76de6.js": "/wangcai-project-react-2-website/precache-manifest.81537bc56237a702a308e0cf9ab76de6.js",
+    "service-worker.js": "/wangcai-project-react-2-website/service-worker.js",
+    "static/css/main.b586f6e1.chunk.css.map": "/wangcai-project-react-2-website/static/css/main.b586f6e1.chunk.css.map",
+    "static/js/2.a94197f0.chunk.js.LICENSE.txt": "/wangcai-project-react-2-website/static/js/2.a94197f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94f4a8d7.js",
+    "static/js/2.a94197f0.chunk.js",
+    "static/css/main.b586f6e1.chunk.css",
+    "static/js/main.5db88b1c.chunk.js"
+  ]
+}
